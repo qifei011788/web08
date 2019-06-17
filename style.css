@@ -135,6 +135,13 @@ select{
 .nav1 li:hover a{
 	color:#3aa747;
 }
+.banner1{
+	height: 670px;
+	width:100%;
+	background-image:url(image/banner.png);
+	background-position: center;
+	background-repeat: no-repeat;
+}
 .mianbao{
 	width: 1200px;
 	height:60px;
